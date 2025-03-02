@@ -1,0 +1,16 @@
+.bg-fondo{
+    background-image: url(/website/assets/img/bg.jpg);
+    background-size:contain;
+    display: flex;
+    background-repeat: no-repeat;
+    height:700px;
+    
+}
+
+#superior{
+    font-size: 160%;
+}
+   
+    
+    
+    
